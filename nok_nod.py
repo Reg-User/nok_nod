@@ -1,3 +1,7 @@
+"""
+@author: reg_user
+"""
+
 def nok(a, b):
     list_x = (a, b)
     list_a = []
